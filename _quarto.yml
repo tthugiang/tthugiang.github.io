@@ -3,12 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: "tthugiang.github.io"
+  title: "Giang Thai"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - PA8302_Lab1.qmd
 
 format:
   html:
